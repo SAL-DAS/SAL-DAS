@@ -3,9 +3,12 @@
 <p align="left">
   <!-- Анимация печатающегося текста -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&width=435&lines=Android+Studio+Developer;Unreal+Engine+Blueprints;Creating+Dropcatch" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&width=435&lines=Android+Studio+Developer;Unreal+Engine+Blueprints;Creating" alt="Typing SVG" />
   </a>
 </p>
+
+---
+
 ## 🛠️ My Stack
 
 <p align="left">
