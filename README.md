@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Мой Стек Технологий
+## 🛠️ My Stack
 
 <p align="left">
   <!-- Unreal Engine -->
@@ -31,18 +31,6 @@
   <!-- Ссылка на сгенерированный пакман-файл в твоем репозитории -->
   <img src="https://raw.githubusercontent.com/ТВОЙ_GITHUB_НИК/ТВОЙ_GITHUB_НИК/output/github-contribution-grid-snake.svg" alt="Pacman Contribution Grid" />
 </p>
-
----
-
-## 📂 Избранные проекты
-
-<details>
-<summary><b>🛠️ Unreal Engine / Blueprints (Развернуть)</b></summary>
-
-```cpp
-// Пример логики интеграции плагина
-#include "SalCore.h"
-#include "GameFramework/Actor.h"
 
 // Dispatcher инициализации
 void ASalCore::BeginPlay() {
