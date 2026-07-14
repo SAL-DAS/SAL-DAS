@@ -1,0 +1,29 @@
+name: Generate Datas
+
+on:
+  schedule: # Запуск каждые 24 часа
+    - cron: "0 */24 * * *" 
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Генерация сетки в стиле Pac-Man
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#f9d71c&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Публикация в ветку output
+      - name: Push SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
