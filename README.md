@@ -22,12 +22,9 @@
 
 ---
 
-## 👾 Активность в репозиториях (Вместо змейки — Pac-Man!)
-
-> [!NOTE]
-> Ниже отрисовывается динамическая сетка коммитов в стиле ретро-игры Pac-Man. Чтобы она заработала на твоих реальных данных, нужно настроить простой GitHub Action (инструкция ниже).
+## 👾 Activity in reposetories 
 
 <p align="center">
   <!-- Ссылка на сгенерированный пакман-файл в твоем репозитории -->
-  <img src="https://raw.githubusercontent.com/SAL_DAS/SAL_DAS/output/github-contribution-grid-snake.svg" alt="Pacman Contribution Grid" />
+  <img src="https://raw.githubusercontent.com/SAL_DAS/stats/output/github-contribution-grid-snake.svg" alt="Pacman Contribution Grid" />
 </p>
