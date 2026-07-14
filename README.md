@@ -1,3 +1,51 @@
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZGVmcz48Y2xpcFBhdGggaWQ9InMiPjxjaXJjbGUgY3g9IjIwMCIgY3k9IjIwMCIgcj0iMTQwIi8+PC9jbGlwUGF0aD48cmFkaWFsR3JhZGllbnQgaWQ9ImciIGN4PSIzMCUiIGN5PSIzMCUiIHI9IjcwJSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzgwZmZiMCIgc3RvcC1vcGFjaXR5PSIwLjQiLz48c3RvcC1vZmZzZXQ9IjQwJSIgc3RvcC1jb2xvcj0iIzAwMDAwMCIgc3RvcC1vcGFjaXR5PSIwIi8+PHN0b3Agb2Zmc2V0PSI4MCUiIHN0b3AtY29sb3I9IiMwMDAwMDAiIHN0b3Atb3BhY2l0eT0iMC43Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwIiBzdG9wLW9wYWNpdHk9IjAuOTUxIi8+PC9ydXJsPjwvZGVmcz48c3R5bGU+LnR7Zm9udC1mYW1pbHk6IkNvdXJpZXIgTmV3IixDb3VyaWVyLG1vbm9zcGFjZTtmb250LXNpemU6MTRweDtmb250LXdlaWdodDpib2xkO2ZpbGw6IzAwZmY2Njt9LnN7YW5pbWF0aW9uOnIgMTJzIGxpbmVhciBpbmZpbml0ZTt9QGtleWZyYW1lcyBye2Zyb217dHJhbnNsYXRlWChpbnNlcnRfc3RhcnRfcG9zaXRpb24pO3RyYW5zZm9ybTp0cmFuc2xhdGVYKDAlKTt9dG97dHJhbnNmb3JtOnRyYW5zbGF0ZVgoLTUwJSk7fX0ubHtmaWxsOm5vbmU7c3Ryb2tlOiMwMGZmNjY7c3Ryb2tlLW9wYWNpdHk6MC4wODtzdHJva2Utd2lkdGg6MTt9LmJ7ZmlsbDpub25lO3N0cm9rZTojMDBmZjY2O3N0cm9rZS1vcGFjaXR5OjAuMztzdHJva2Utd2lkdGg6Mjt9PC9zdHlsZT48Y2lyY2xlIGN4PSIyMDAiIGN5PSIyMDAiIHI9IjE0MiIgZmlsbD0iIzAxMDQwMiIvPjxnIGNsaXAtcGF0aD0idXJsKCNsKSI+PGNpcmNsZSBjeD0iMjAwIiBjeT0iMjAwIiByPSIxNDAiIGZpbGw9IiMwMTBhMDQiLz48ZyBjbGFzcz0ibCI+PGxpbmUgeDE9IjYwIiB5MT0iOTUiIHgyPSIzNDAiIHkyPSI5NSIvPjxsaW5lIHgxPSI2MCIgeTE9IjExMCIgeDI9IjM0MCIgeTI9IjExMCIvPjxsaW5lIHgxPSI2MCIgeTE9IjEyNSIgeDI9IjM0MCIgeTI9IjEyNSIvPjxsaW5lIHgxPSI2MCIgeTE9IjE0MCIgeDI9IjM0MCIgeTI9IjE0MCIvPjxsaW5lIHgxPSI2MCIgeTE9IjE1NSIgeDI9IjM0MCIgeTI9IjE1NSIvPjxsaW5lIHgxPSI2MCIgeTE9IjE3MCIgeDI9IjM0MCIgeTI9IjE3MCIvPjxsaW5lIHgxPSI2MCIgeTE9IjE4NSIgeDI9IjM0MCIgeTI9IjE4NSIvPjxsaW5lIHgxPSI2MCIgeTE9IjIwMCIgeDI9IjM0MCIgeTI9IjIwMCIvPjxsaW5lIHgxPSI2MCIgeTE9IjIxNSIgeDI9IjM0MCIgeTI9IjIxNSIvPjxsaW5lIHgxPSI2MCIgeTE9IjIzMCIgeDI9IjM0MCIgeTI9IjIzMCIvPjxsaW5lIHgxPSI2MCIgeTE9IjI0NSIgeDI9IjM0MCIgeTI9IjI0NSIvPjxsaW5lIHgxPSI2MCIgeTE9IjI2MCIgeDI9IjM0MCIgeTI9IjI2MCIvPjxsaW5lIHgxPSI2MCIgeTE9IjI3NSIgeDI9IjM0MCIgeTI9IjI3NSIvPjxsaW5lIHgxPSI2MCIgeTE9IjI5MCIgeDI9IjM0MCIgeTI9IjI5MCIvPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTgwLDApIj48ZyBjbGFzcz0icyB0Ij48dGV4dCB4PSIwIiB5PSI4MCI+ICAgICAgLi46OisrOisuLiAgICAgICAgICAgIC4uOjorKysrKioqKysrKys6Li4gICAgICAgICAgLi46OisrOisuLiAgICAgICAgICAgIC4uOjorKysrKioqKysrKys6Li4gICAgPC90ZXh0Pjx0ZXh0IHg9IjAiIHk9Ijk1Ij4gICAgLi46OisrKysrKzouLiAgICAgICAgLi46OisrKysqKioqKysrKzouLiAgICAgICAgLi46OisrKysrKzouLiAgICAgICAgLi46OisrKysqKioqKysrKzouLiAgICA8L3RleHQ+PHRleHQgeD0iMCIgeT0iMTEwIj4gICAuOisrKysrKysrKys6Li4gICAgIC46OisrKysqKioqKioqKysrKzouLiAgICAgICAuOisrKysrKysrKys6Li4gICAgIC46OisrKysqKioqKioqKysrKzouLiAgICA8L3RleHQ+PHRleHQgeD0iMCIgeT0iMTI1Ij4gIC46OisrKysrKysrKysrKzouLiAgIC46OisrKysqKioqKioqKioqKysrOi4uICAgICAuOisrKysrKysrKysrKzouLiAgIC46OisrKysqKioqKioqKioqKysrOi4uICAgPC90ZXh0Pjx0ZXh0IHg9IjAiIHk9IjE0MCI+IC46OisrKysrKysrKysrKysrOi4uICAuOisrKysqKioqKioqKioqKioqKys6LiAgICAgIC46OisrKysrKysrKysrKysrOi4uICAuOisrKysqKioqKioqKioqKioqKys6LiAgICA8L3RleHQ+PHRleHQgeD0iMCIgeT0iMTU1Ij4gLjo6KysrKysrKysrKysrKysrOi4uIC46OisrKysqKioqKioqKioqKioqKysrOi4gICAgIC46OisrKysrKysrKysrKysrOi4uIC46OisrKysqKioqKioqKioqKioqKysrOi4gICA8L3RleHQ+PHRleHQgeD0iMCIgeT0iMTcwIj4gLjo6KysrKysrKysrKysrKzouLiAgLjo6KysrKyoqKioqKioqKioqKioqKys6LiAgICAgLjo6KysrKysrKysrKysrKzouLiAgLjo6KysrKyoqKioqKioqKioqKioqKys6LiAgIDwvdGV4dD48dGV4dCB4PSIwIiB5PSIxODUiPiAgLjo6KysrKysrKysrKys6Li4gICAgLjo6KysrKyoqKioqKioqKioqKys6LiAgICAgICAuOjo++++++++++++Ky4uPC90ZXh0PjwvZz48L2c+PGNpcmNsZSBjeD0iMjAwIiBjeT0iMjAwIiByPSIxNDAiIGZpbGw9InVybCgjZykiIHN0eWxlPSJtaXgtYmxlbmQtbW9kZTptdWx0aXBseTsiLz48L2c+PGNpcmNsZSBjeD0iMjAwIiBjeT0iMjAwIiByPSIxNDAiIGNsYXNzPSJiIi8+PC9zdmc+" width="320" alt="Spinning ASCII Earth" />
+# Привет! Я SAL ⚡
+
+<p align="left">
+  <!-- Анимация печатающегося текста -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&width=435&lines=Android+Studio+Developer;Unreal+Engine+Blueprints;Creating+Dropcatch" alt="Typing SVG" />
+  </a>
 </p>
+
+---
+
+## 🛠️ Мой Стек Технологий
+
+<p align="left">
+  <!-- Unreal Engine -->
+  <img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+  <!-- Blueprints -->
+  <img src="https://img.shields.io/badge/Blueprints-Visual_Scripting-007ACC?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Blueprints" />
+  <!-- Android Studio -->
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+</p>
+
+---
+
+## 👾 Активность в репозиториях (Вместо змейки — Pac-Man!)
+
+> [!NOTE]
+> Ниже отрисовывается динамическая сетка коммитов в стиле ретро-игры Pac-Man. Чтобы она заработала на твоих реальных данных, нужно настроить простой GitHub Action (инструкция ниже).
+
+<p align="center">
+  <!-- Ссылка на сгенерированный пакман-файл в твоем репозитории -->
+  <img src="https://raw.githubusercontent.com/ТВОЙ_GITHUB_НИК/ТВОЙ_GITHUB_НИК/output/github-contribution-grid-snake.svg" alt="Pacman Contribution Grid" />
+</p>
+
+---
+
+## 📂 Избранные проекты
+
+<details>
+<summary><b>🛠️ Unreal Engine / Blueprints (Развернуть)</b></summary>
+
+```cpp
+// Пример логики интеграции плагина
+#include "SalCore.h"
+#include "GameFramework/Actor.h"
+
+// Dispatcher инициализации
+void ASalCore::BeginPlay() {
+    Super::BeginPlay();
+    OnEngineInitialized.Broadcast();
+}
