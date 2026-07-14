@@ -29,5 +29,5 @@
 
 <p align="center">
   <!-- Ссылка на сгенерированный пакман-файл в твоем репозитории -->
-  <img src="https://raw.githubusercontent.com/ТВОЙ_GITHUB_НИК/ТВОЙ_GITHUB_НИК/output/github-contribution-grid-snake.svg" alt="Pacman Contribution Grid" />
+  <img src="https://raw.githubusercontent.com/SAL_DAS/SAL_DAS/output/github-contribution-grid-snake.svg" alt="Pacman Contribution Grid" />
 </p>
